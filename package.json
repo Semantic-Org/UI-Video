@@ -1,6 +1,6 @@
 {
-  "name": "UI-Video",
-  "version": "1.0.0",
+  "name": "semantic-ui-video",
+  "version": "1.0.0-beta",
   "title": "Semantic UI - Video",
   "description": "Single component release of video",
   "homepage": "http://www.semantic-ui.com",
@@ -13,9 +13,9 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+  "devDependencies": {},
   "dependencies": {
     "jquery": "x.x.x"
   },
-  "devDependencies": {},
   "main": "index.js"
 }
