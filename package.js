@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-video',
   summary : 'Semantic UI - Video (official): Single component release of video',
-  version : '1.9.0',
+  version : '1.9.9',
   git     : 'git://github.com/Semantic-Org/UI-Video.git',
 });
 
