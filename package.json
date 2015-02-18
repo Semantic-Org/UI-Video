@@ -1,0 +1,25 @@
+{
+  "name": "semantic-ui-video",
+<<<<<<< HEAD
+  "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> da536e18372f59867c6ae2da0b6cb94eae26afe5
+  "title": "Semantic UI - Video",
+  "description": "Single component release of video",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semantic-Org/UI-Video.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+  "main": "index.js"
+}
