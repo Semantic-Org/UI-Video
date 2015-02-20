@@ -1,17 +1,15 @@
-var
-  where = 'client' // Adds files only to the client
-;
 
 Package.describe({
   name    : 'semantic:ui-video',
-  summary : 'Semantic UI - Video (official): Single component release of video',
-  version : '1.9.2',
+  summary : 'Semantic UI - Video: Single component release',
+  version : '1.9.3',
   git     : 'git://github.com/Semantic-Org/UI-Video.git',
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles([
-    
-  ], where);
+    'video.css',
+    'video.js'
+  ], 'client');
 });
